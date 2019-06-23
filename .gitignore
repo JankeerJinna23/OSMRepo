@@ -10,3 +10,5 @@ obj
 packages
 *.vs
 
+# Check Azure Builds 0.1
+
